@@ -24,7 +24,7 @@ class ToxTest(TestCommand):
         tox.cmdline()
 
 
-setup(name="virtualenv-clone",
+setup(name="virtualenv-clone-bugfix",
     version='0.2.5',
     description='script to clone virtualenvs.',
     author='Edward George',
